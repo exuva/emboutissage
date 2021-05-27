@@ -1,6 +1,6 @@
 # emboutissage
-<br/>**calcul automatique pour calculer une forme simple d'emboutis (flan + nombre de passes)** <br/>
-*ce calcul sert à déterminer théoriquement le nombre de passe necessaire pour réaliser la forme emboutis (cylindre) en fonction du nombre de passe.*
+<br/>**Calcul automatique pour calculer une forme simple d'emboutis (flan + nombre de passes)** <br/>
+*Ce calcul sert à déterminer théoriquement le nombre de passe necessaire pour réaliser la forme emboutis (cylindre) en fonction du nombre de passe.*
 <br/>
 
 
@@ -19,7 +19,7 @@ __**Vous allez devoir rentrer à la main**__
 >le premier résultat **[D]** correspond au développer
 
 <addr><addr><br/>
-**ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :**
+**Ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :**
   
   >le numéro de la passe **[pass nb]**
   
@@ -43,6 +43,6 @@ __**Vous allez devoir rentrer à la main**__
   
 **discord perso:** Mʌrius#2561
   
-**discord commu:** https://discord.gg/PvQ6peA
+**discord commun:** https://discord.gg/PvQ6peA
   
 
