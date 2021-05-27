@@ -17,7 +17,7 @@
 >le premier résultat **[D]** correspond au développer
 
 <addr><addr><br/>
-## **Ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :**
+## **Ensuite les résultats s'afficherons dans l'ordre et par passe, exemple:**
   
   >le numéro de la passe **[pass nb]**
   
