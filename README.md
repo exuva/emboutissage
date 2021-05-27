@@ -39,10 +39,10 @@ __**Vous allez devoir rentrer à la main**__
   
   
 <addr><addr><addr><br/><br/><br/>
-**question :**
+**If you have any questions:**
   
-**discord perso:** Mʌrius#2561
+**My discord: ** Mʌrius#2561
   
-**discord commun:** https://discord.gg/PvQ6peA
+**My discord server:** https://discord.gg/PvQ6peA
   
 
