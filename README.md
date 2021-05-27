@@ -23,11 +23,7 @@ ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y
   -surface latérale [s-l]
   -périmètre du poinçon [perim-poincon]
   -hauteur de la passe [h-passe]
-  
-  
-  
-  
-
+<br/>
 question :
 discord perso: Mʌrius#2561
 discord commu: https://discord.gg/PvQ6peA
