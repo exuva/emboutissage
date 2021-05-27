@@ -4,11 +4,9 @@
 <br/>
 
 
-![image](https://user-images.githubusercontent.com/84912528/119827012-f403f900-bef8-11eb-9c44-f5681d72490e.png)
-
 
 <br/><br/>
-__**Vous allez devoir rentrer à la main**__
+## __**Vous allez devoir rentrer à la main**__
 
 >Le diamètre interieur **[dia. inter]** 
 
@@ -19,7 +17,7 @@ __**Vous allez devoir rentrer à la main**__
 >le premier résultat **[D]** correspond au développer
 
 <addr><addr><br/>
-**Ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :**
+## **Ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :**
   
   >le numéro de la passe **[pass nb]**
   
@@ -37,12 +35,11 @@ __**Vous allez devoir rentrer à la main**__
   
   >hauteur de la passe **[h-passe]**
   
-  
-<addr><addr><addr><br/><br/><br/>
+### wiki: https://github.com/exuva/exemple.py/wiki
+
+<br/><br/><br/>
 **If you have any questions:**
   
 **My discord:** Mʌrius#2561
   
 **My discord server:** https://discord.gg/PvQ6peA
-  
-
