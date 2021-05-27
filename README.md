@@ -1,12 +1,12 @@
 # emboutissage
-<br/>**Calcul automatique pour calculer une forme simple d'emboutis (flan + nombre de passes)** <br/>
-*Ce calcul sert à déterminer théoriquement le nombre de passe necessaire pour réaliser la forme emboutis (cylindre) en fonction du nombre de passe.*
-<br/>
+<br/><abbr>**Calcul automatique pour calculer une forme simple d'emboutis (flan + nombre de passes)**
+<br/><abbr>*Ce calcul sert à déterminer théoriquement le nombre de passe necessaire pour réaliser la forme emboutis (cylindre) en fonction du nombre de passe.*
+<br/><abbr>
 
 
 
-<br/><br/>
-## __**Vous allez devoir rentrer à la main**__
+<br/><br/><abbr>
+## Ce que vous devez rentrer:
 
 >Le diamètre interieur **[dia. inter]** 
 
@@ -15,10 +15,11 @@
 >Epaisseur matière **[ep. mat.]**
 
 >le premier résultat **[D]** correspond au développer
-
-<addr><addr><br/>
-## **Ensuite les résultats s'afficherons dans l'ordre et par passe, exemple:**
   
+  
+<br/><abbr>
+## Exemple:
+*les résultats s'afficherons dans l'ordre et par passe*
   >le numéro de la passe **[pass nb]**
   
   >le coefficient réducteur (via tableau MAJ 2021)  **[coefredu]**
@@ -35,10 +36,12 @@
   
   >hauteur de la passe **[h-passe]**
   
+
+<br/><br/><abbr>
 ### WIKI: https://github.com/exuva/exemple.py/wiki
 ### Cours: https://github.com/exuva/emboutissage-cylindrique/wiki
   
-<br/><br/><br/>
+<br/><br/><br/><abbr>
 **If you have any questions:**
   
 **My discord:** Mʌrius#2561
