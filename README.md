@@ -35,8 +35,9 @@
   
   >hauteur de la passe **[h-passe]**
   
-### wiki: https://github.com/exuva/exemple.py/wiki
-
+### WIKI: https://github.com/exuva/exemple.py/wiki
+### Cours: https://github.com/exuva/emboutissage-cylindrique/wiki
+  
 <br/><br/><br/>
 **If you have any questions:**
   
