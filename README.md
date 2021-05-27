@@ -13,6 +13,7 @@ Le diamètre interieur [dia. inter]
 La hauteur externe [Haut. exter] 
 Epaisseur matière [ep. mat.]
 le premier résultat D correspond au développer
+
 ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :
 
   -le numéro de la passe [pass nb]
