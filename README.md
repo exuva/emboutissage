@@ -15,21 +15,13 @@ Epaisseur matière [ep. mat.]
 le premier résultat D correspond au développer
 
 ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :
-
   -le numéro de la passe [pass nb]
-  
-  -le coefficient réducteur (via tableau MAJ 2021)  [coefredu]
-  
+  -le coefficient réducteur (via tableau MAJ 2021)  [coefredu] 
   -diamètre du poinçon  [dia-poin/ passe]
-  
   -surface du flan  [s-f]
-  
   -surface du poinçon [s-p]
-  
   -surface latérale [s-l]
-  
   -périmètre du poinçon [perim-poincon]
-  
   -hauteur de la passe [h-passe]
   
   
@@ -37,8 +29,6 @@ ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y
   
 
 question :
-
 discord perso: Mʌrius#2561
-
 discord commu: https://discord.gg/PvQ6peA
 
