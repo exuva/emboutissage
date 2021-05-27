@@ -8,6 +8,9 @@ ce calcul sert à déterminer théoriquement le nombre de passe necessaire pour 
 
 
 
+#spacerignoreit
+#spacerignoreit
+
 Vous allez devoir rentrer à la main :
 
 Le diamètre interieur [dia. inter] 
@@ -20,7 +23,8 @@ Epaisseur matière [ep. mat.]
 
 le premier résultat D correspond au développer
 
-
+#spacerignoreit
+#spacerignoreit
 
 ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :
   -le numéro de la passe [pass nb]
