@@ -22,6 +22,7 @@ ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y
   -surface du poinçon [s-p]
   -surface latérale [s-l]
   -périmètre du poinçon [perim-poincon]
+<addr>
   -hauteur de la passe [h-passe]
 <br/>
 question :
