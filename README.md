@@ -5,12 +5,9 @@ ce calcul sert à déterminer théoriquement le nombre de passe necessaire pour 
 
 
 ![image](https://user-images.githubusercontent.com/84912528/119827012-f403f900-bef8-11eb-9c44-f5681d72490e.png)
-
-
-
-#spacerignoreit
-#spacerignoreit
-
+‏‏‎ ‎
+‏‏‎ ‎
+‏‏‎ ‎
 Vous allez devoir rentrer à la main :
 
 Le diamètre interieur [dia. inter] 
@@ -18,13 +15,10 @@ Le diamètre interieur [dia. inter]
 La hauteur externe [Haut. exter] 
 
 Epaisseur matière [ep. mat.]
-
-
-
+‏‏‎ ‎
+‏‏‎ ‎
+‏‏‎ ‎
 le premier résultat D correspond au développer
-
-#spacerignoreit
-#spacerignoreit
 
 ensuite les résultats s'afficherons dans l'ordre et par passe, voici ce qu'il y auras dans 1 passe :
   -le numéro de la passe [pass nb]
